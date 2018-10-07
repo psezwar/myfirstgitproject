@@ -3,4 +3,9 @@ Welcome to Recipe file
 2.Mutton Roganjosh
 3.Kadai Paneer
 
+New Recipe
+1.Chicken lung fung
+2.Chicken Chilli
+
+
 Thanks.
